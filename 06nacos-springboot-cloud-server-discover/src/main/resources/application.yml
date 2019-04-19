@@ -1,0 +1,9 @@
+server:
+  port: 10089
+spring:
+  application:
+    name: provider-nacos-discover
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 10.26.15.26:8848

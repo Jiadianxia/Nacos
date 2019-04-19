@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03nacos-springboot-multi-config/03nacos-springboot-multi-config.iml" filepath="$PROJECT_DIR$/03nacos-springboot-multi-config/03nacos-springboot-multi-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04springboot-cloud-multi-config/04springboot-cloud-multi-config.iml" filepath="$PROJECT_DIR$/04springboot-cloud-multi-config/04springboot-cloud-multi-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05nacos-springboot-server-discover/05nacos-springboot-server-discover.iml" filepath="$PROJECT_DIR$/05nacos-springboot-server-discover/05nacos-springboot-server-discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06nacos-springboot-cloud-server-discover/06nacos-springboot-cloud-server-discover.iml" filepath="$PROJECT_DIR$/06nacos-springboot-cloud-server-discover/06nacos-springboot-cloud-server-discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06springboot-nacose-server-discover/06springboot-nacose-server-discover.iml" filepath="$PROJECT_DIR$/06springboot-nacose-server-discover/06springboot-nacose-server-discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculate/calculate.iml" filepath="$PROJECT_DIR$/calculate/calculate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo-discover-consumer.iml" filepath="$PROJECT_DIR$/demo/demo-discover-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-demos.iml" filepath="$PROJECT_DIR$/nacos-demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nacos-spring-boot-config-mysql/nacos-spring-boot-config-mysql-example.iml" filepath="$PROJECT_DIR$/../nacos-spring-boot-config-mysql/nacos-spring-boot-config-mysql-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01nacos-springboot-cloud-demo/nacos-springboot-cloud-demo.iml" filepath="$PROJECT_DIR$/01nacos-springboot-cloud-demo/nacos-springboot-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02nacos-springboot-demo/nacos-springboot-demo.iml" filepath="$PROJECT_DIR$/02nacos-springboot-demo/nacos-springboot-demo.iml" />
+    </modules>
+  </component>
+</project>

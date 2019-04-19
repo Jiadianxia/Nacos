@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-springboot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-springboot-cloud-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/01nacos-springboot-cloud-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/02nacos-springboot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/03nacos-springboot-multi-config/pom.xml" />
+        <option value="$PROJECT_DIR$/04springboot-cloud-multi-config/pom.xml" />
+        <option value="$PROJECT_DIR$/05nacos-springboot-server-discover/pom.xml" />
+        <option value="$PROJECT_DIR$/06nacos-springboot-cloud-server-discover/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../nacos-spring-boot-config-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/06springboot-nacose-server-discover/pom.xml" />
+        <option value="$PROJECT_DIR$/calculate/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

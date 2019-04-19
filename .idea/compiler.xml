@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="03nacos-springboot-multi-config" />
+        <module name="04springboot-cloud-multi-config" />
+        <module name="05nacos-springboot-server-discover" />
+        <module name="06nacos-springboot-cloud-server-discover" />
+        <module name="06springboot-nacose-server-discover" />
+        <module name="calculate" />
+        <module name="config-demo" />
+        <module name="demo" />
+        <module name="demo-discover-consumer" />
+        <module name="nacos-demos" />
+        <module name="nacos-spring-boot-config-mysql-example" />
+        <module name="nacos-springboot-cloud-demo" />
+        <module name="nacos-springboot-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="03nacos-springboot-multi-config" target="1.8" />
+      <module name="04springboot-cloud-multi-config" target="1.8" />
+      <module name="05nacos-springboot-server-discover" target="1.8" />
+      <module name="06nacos-springboot-cloud-server-discover" target="1.8" />
+      <module name="06springboot-nacos-discover-zhujie" target="1.8" />
+      <module name="06springboot-nacose-server-discover" target="1.8" />
+      <module name="07nacos-springboot-huidufabu" target="1.8" />
+      <module name="07nacos-springboot-mysql-demo" target="1.8" />
+      <module name="calculate" target="1.8" />
+      <module name="config-demo" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo-discover-consumer" target="1.8" />
+      <module name="nacos-demos" target="1.8" />
+      <module name="nacos-spring-boot-config-mysql-example" target="1.8" />
+      <module name="nacos-springboot-cloud-demo" target="1.8" />
+      <module name="nacos-springboot-demo" target="1.8" />
+      <module name="nacos-springcloud-demo" target="1.8" />
+      <module name="springboot-cloud-demo" target="1.8" />
+      <module name="springboot-config-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
